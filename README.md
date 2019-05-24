@@ -1,5 +1,7 @@
 # Cordova Browser-Sync Plugin
 
+Forked from https://github.com/nparashuram/cordova-plugin-browsersync which is now archived.
+
 [![dependencies Status](https://david-dm.org/nparashuram/cordova-plugin-browsersync/status.svg)](https://david-dm.org/nparashuram/cordova-plugin-browsersync)
 [![devDependencies Status](https://david-dm.org/nparashuram/cordova-plugin-browsersync/dev-status.svg)](https://david-dm.org/nparashuram/cordova-plugin-browsersync?type=dev)
 
